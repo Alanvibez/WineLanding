@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: $montserrat;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1,h3{
+    font-family: $playfair;
+}
+
+.btn{
+    background-color: $primary;
+    color: white;
+    text-transform: uppercase;
+    padding: 15px 30px;
+}
